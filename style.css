@@ -1,0 +1,57 @@
+body {
+    background-image:url(images/background.png) ;
+    margin: 0;
+    font-family:"StratosSkyeng",sans-serif ;
+}
+.capybara {
+    background-image: url(images/head.png);
+    background-repeat: no-repeat;
+    height:100vh ;
+    background-position: center;
+     background-attachment: fixed;
+    
+}
+table {
+    width: 1200px; ;
+    height: 100vh;
+    margin: 0 auto;
+    border-collapse: collapse;
+    
+}
+.img {
+    width: 550px;
+    
+}
+td, tr {
+    text-align: center;
+    vertical-align: bottom;
+    border: 25px solid white;
+
+}
+.mama {
+    font-size: 30px;
+    background-color: white; 
+    border-radius: 25px;
+    width: max-content;
+    padding: 10px 30px;
+    margin: 0 auto;
+}
+a {
+    position: absolute;
+    display: block;
+    background-color: #894AFF;
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 38px;
+    right: 80px;
+    bottom: 75px;
+    
+}
+.content {
+    position: relative;
+}
